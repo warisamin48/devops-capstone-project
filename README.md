@@ -1,4 +1,4 @@
-# DevOps Capstone Template
+# DevOps Capstone Project - Customer Accounts Microservices
 
 ![Build Status](https://github.com/warisamin48/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
